@@ -50,7 +50,9 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 
 ## Academic Projects
 
-- **“DianDianZhuan” Android application development**, 2014.
+- **“DianDianZhuan” Android application development**
+  * 07/2014 - 08/2014
+  * Partner: Shanghai Nankang Technology Co., Ltd
 - **Parallel GPU-accelerated deep learning algorithm development**, 2015.
 - **Distributed Redis optimization**, 2015.
 - **Collective-intelligence computing of urban big data**, 2015-2016.
