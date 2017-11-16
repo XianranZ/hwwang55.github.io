@@ -52,16 +52,16 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 
 - **“DianDianZhuan” Android application development**
   * 07/2014 - 08/2014
-  * Partner: Shanghai Nankang Technology Co., Ltd
+  * Partner: [Shanghai Nankang Technology Co., Ltd](http://www.nankang.com.cn/)
 - **Parallel GPU-accelerated deep learning algorithm development**
   * 03/2015 - 06/2015
-  * Partner: Shenzhen Huawei Technology Co., Ltd
+  * Partner: [Shenzhen Huawei Technology Co., Ltd](http://www.huawei.com/us/)
 - **Distributed Redis optimization**
   * 06/2015 - 10/2015
-  * Partner: Shanghai Huawei Technology Co., Ltd
+  * Partner: [Shanghai Huawei Technology Co., Ltd](http://www.huawei.com/us/)
 - **Collective-intelligence computing of urban big data**
   * 09/2015 - 07/2016
-  * Partner: Ministry of Science and Technology of People's Republic of China
+  * Partner: [Ministry of Science and Technology of the People's Republic of China](http://www.most.gov.cn/eng/)
 
 
 ## Professional Experience
@@ -69,7 +69,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), full-time internship**
   * 07/2013 - 04/2014, Mentor: [Dr. Feng Zhao](http://www.fengzhao.com/)
   * 09/2016 - present, Mentor: [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
-- **[the Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), research assistant**
+- **[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), research assistant**
   * 03/2016 - 09/2016, Mentor: [Prof. Jiannong Cao](http://www4.comp.polyu.edu.hk/~csjcao/)
 
 
