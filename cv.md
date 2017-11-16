@@ -48,16 +48,13 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
   Zhuo Li, **Hongwei Wang**, Miao Zhao, Wenjie Li, Minyi Guo. *The 32nd AAAI Conference on Artificial Intelligence*. **AAAI 2018**.
   
 
-## Coaching Experiences
+## Academic Projects
 
-- **Coach** of UIUC ACM/ICPC Team.
-    * Aug. 2017 - Present
-- **Assistant Coach** of UIUC ACM/ICPC Team.
-    * Aug. 2014 - Aug. 2017
-    * 2017: [CS@ILLINOIS Team Tests Problem-Solving Skills at ICPC 2017](http://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017)
-    * 2016: [Illinois Team Advances to ICPC World Finals](https://cs.illinois.edu/news/illinois-team-advances-icpc-world-finals)
-- **Assistant Coach** of SJTU ACM/ICPC Team.
-    * Aug. 2011 - Jun. 2014
+- **“DianDianZhuan” Android application development**, 2014.
+- **Parallel GPU-accelerated deep learning algorithm development**, 2015.
+- **Distributed Redis optimization**, 2015.
+- **Collective-intelligence computing of urban big data**, 2015-2016.
+
 
 ## Algorithmic Programming Competition Experiences
 
