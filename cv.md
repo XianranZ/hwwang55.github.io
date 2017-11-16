@@ -40,7 +40,8 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://hwwang55.github.io/files/2017-RecSys-job.pdf)**  
   Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun, *in Proceedings of the 11th ACM Conference on Recommender Systems*. **RecSys Challenge 2017**.
   
-  
+- **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)**  
+  **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo, *in Proceedings of the 26th International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
   
 
 ## Coaching Experiences
