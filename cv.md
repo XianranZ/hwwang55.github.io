@@ -29,7 +29,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 ## Publications
 
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
-  Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *in Proceedings of the 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
+  Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *The 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
   
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)**  
   Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
