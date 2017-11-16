@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ## Hongwei Wang (王鸿伟)
 
-[View my CV [PDF]](hwwang55.github.io/files/hongweiwang_cv.pdf)
+[View my CV [PDF]](https://hwwang55.github.io/files/hongweiwang_cv.pdf)
 
 
 ## Research Interests
@@ -28,7 +28,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 
 ## Publications
 
-- **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
+- **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo, *in Proceedings of the 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
 
 ## Coaching Experiences
