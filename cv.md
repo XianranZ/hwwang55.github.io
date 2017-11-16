@@ -43,6 +43,9 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)**  
   **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo, *in Proceedings of the 26th International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
   
+- **[SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)**  
+  **Hongwei Wang**, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu, *in Proceedings of the 11th ACM International Conference on Web Search and Data Mining*. **WSDM 2018**. [poster to appear]
+  
 
 ## Coaching Experiences
 
