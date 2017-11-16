@@ -8,7 +8,12 @@ title: Curriculum Vitae
 
 
 ## Research Interests
-Social data mining, graph data mining, reprsentation learning, recommender systems
+- **recommender systems**  
+  [TCSS 2017]((https://hwwang55.github.io/files/2017-TCSS-voting.pdf)) [RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf) [CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)
+- **Graph representation learning**  
+  [WSDM 2018](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf) [AAAI 2018](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)
+- **machine learning application**  
+  [ICDCS 2017](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf) [TPDS 2018](https://hwwang55.github.io/files/2018-TPDS-MELODY.pdf) [AAAI 2018](https://hwwang55.github.io/files/2018-AAAI-DRDNN.pdf)
 
 
 ## Education
@@ -38,7 +43,8 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)**  
-  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
+  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.  
+  **2016**
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *The 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
   
