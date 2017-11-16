@@ -1,12 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CS PhD candidate @ SJTU, full-time intern @ MSRA
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
+- I'm currently a Ph. D. candidate at [the Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), supervised by Prof. [Minyi Guo](http://www.cs.sjtu.edu.cn/~guo-my/). My research interests include **recommender systems**, **representation learning**, **textual and graph mining**.
 - I'm extremely loyal to my family
 
 What else do you need?
