@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Experiences
-permalink: /experiences/
+title: CV
 ---
 
-## Professional Experiences
+## Hongwei Wang (王鸿伟)
 
 - **Structure Data Team, Google Research**
   * Software Engineering Intern
