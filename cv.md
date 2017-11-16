@@ -46,7 +46,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)**  
   **Hongwei Wang**, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu, *in Proceedings of the 11th ACM International Conference on Web Search and Data Mining*. **WSDM 2018**. [poster is coming soon]
   
-- **[MELODY: A Long-term Dynamic Quality-Aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/018-TPDS-MELODY.pdf)**  
+- **[MELODY: A Long-term Dynamic Quality-Aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2018-TPDS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo, *in IEEE Transactions on Parallel and Distributed Systems*. **TPDS 2018**. [[appendix](https://hwwang55.github.io/files/2018-TPDS-MELODY-appendix.pdf)]
   
 
