@@ -11,5 +11,5 @@ subtitle: CS PhD candidate @ SJTU, full-time intern @ MSRA
 
 
 ### My history
-- I received the B.E. degree in 2014 at [the Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) in [Shanghai Jiao Tong University]((http://en.sjtu.edu.cn)).
+- I received the B.E. degree in 2014 at [the Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) in [Shanghai Jiao Tong University]((http://en.sjtu.edu.cn)), where I was a member of the 2010 [ACM Honored Class](https://acm.sjtu.edu.cn/home), now part of [Zhiyuan College](http://zhiyuan.sjtu.edu.cn/) in SJTU.
 - I was a full-time intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from July 2013 to April 2014, supervised by [Dr. Feng Zhao](http://www.fengzhao.com/).
