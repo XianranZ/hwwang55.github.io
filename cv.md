@@ -8,11 +8,11 @@ title: Curriculum Vitae
 
 
 ## Research Interests
-- **recommender systems**  
-  [[TCSS 2017]((https://hwwang55.github.io/files/2017-TCSS-voting.pdf))] [[RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf)] [[CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)]
+- **Recommender systems**  
+  [[TCSS 2017](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)] [[RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf)] [[CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)]
 - **Graph representation learning**  
   [[WSDM 2018](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)] [[AAAI 2018](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)]
-- **machine learning application**  
+- **Machine learning application**  
   [[ICDCS 2017](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)] [[TPDS 2018](https://hwwang55.github.io/files/2018-TPDS-MELODY.pdf)] [[AAAI 2018](https://hwwang55.github.io/files/2018-AAAI-DRDNN.pdf)]
 
 
