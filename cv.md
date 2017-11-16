@@ -8,10 +8,10 @@ title: Curriculum Vitae
 
 ## Education
 
-- **B.E., Shanghai Jiao Tong University**
+- **B.E., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
   * 09/2010 - 06/2014
-  * Department of Computer Science and Engineering (ACM class)
-  * Advisor: Yong Yu
+  * [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) ([ACM class](https://acm.sjtu.edu.cn/home))
+  * Advisor: [Yong Yu](http://apex.sjtu.edu.cn/members/yyu)
 - **Local Quality Search Team, Google**
   * Software Engineering Intern
   * May - Aug 2016, New York City, NY
