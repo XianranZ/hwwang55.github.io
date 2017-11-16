@@ -4,14 +4,14 @@ title: Curriculum Vitae
 ---
 
 ## Hongwei Wang (王鸿伟)
-[View My CV [PDF]](https://github.com/hwwang55/hwwang55.github.io/blob/master/files/hongweiwang_cv.pdf)
+[View my CV [PDF]](hwwang55.github.io/files/hongweiwang_cv.pdf)
 
 ## Education
 
-- **Structure Data Team, Google Research**
-  * Software Engineering Intern
-  * May - Aug 2017, New York City, NY
-  * To break the [filter bubble](https://en.wikipedia.org/wiki/Filter_bubble), a subtask is that given a thought-provoking question, from massive text corpora, identify a small subset of news articles exactly/incidentally addressing the question.
+- **B.E., Shanghai Jiao Tong University**
+  * 09/2010 - 06/2014
+  * Department of Computer Science and Engineering (ACM class)
+  * Advisor: Yong Yu
 - **Local Quality Search Team, Google**
   * Software Engineering Intern
   * May - Aug 2016, New York City, NY
