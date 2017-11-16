@@ -4,33 +4,32 @@ title: Curriculum Vitae
 ---
 
 ## Hongwei Wang (王鸿伟)
+
 [View my CV [PDF]](hwwang55.github.io/files/hongweiwang_cv.pdf)
+
+
+## Research Interests
+
+Social data mining, graph data mining, reprsentation learning, recommender systems
+
 
 ## Education
 
+- **Ph.D., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
+  * 09/2014 - present
+  * [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/)
+  * Advisor: [Minyi Guo](http://www.cs.sjtu.edu.cn/~guo-my/)
+  
 - **B.E., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
   * 09/2010 - 06/2014
   * [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) ([ACM class](https://acm.sjtu.edu.cn/home))
   * Advisor: [Yong Yu](http://apex.sjtu.edu.cn/members/yyu)
-- **Local Quality Search Team, Google**
-  * Software Engineering Intern
-  * May - Aug 2016, New York City, NY
-  * From review data, using machine learning and MapReduce techniques, efficiently and significantly improve the quality of Related Place Set project.
-- **Urban Computing Group, Microsoft Research Asia**
-  * Research Intern
-  * Aug 2013 - Feb 2014
-  * Using the massive trajectory data from taxi in Beijing, accurately predict the traffic and the caused air pollution by context-aware matrix factorization and graphical models.
 
 
-## Teaching Experiences
+## Publications
 
-- **Instructor**, CS491 CAP, Competitive Algorithmic Programming, UIUC
-    * Spring 2016 and 2017
-    * Course website: [CS491 CAP](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap)
-- **Instructor**, CS491 WF, Intro to Competitive Algorithmic Programming, UIUC.
-    * Fall 2015, 2016, and 2017
-- **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
-    * Spring and Fall 2015
+- **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**
+  Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo, *in Proceedings of the 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
 
 ## Coaching Experiences
 
