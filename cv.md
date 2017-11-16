@@ -29,6 +29,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 ## Publications
 
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**
+
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo, *in Proceedings of the 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
 
 ## Coaching Experiences
