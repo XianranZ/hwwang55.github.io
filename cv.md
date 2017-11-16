@@ -35,6 +35,7 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]  
   %red% Accept rate: 16.9%
+  <font color=gray size=72>color=gray</font>
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://hwwang55.github.io/files/2017-RecSys-job.pdf)* 
   Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun. *The 11th ACM Conference on Recommender Systems*. **RecSys Challenge 2017**.
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)**  
