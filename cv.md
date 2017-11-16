@@ -54,11 +54,11 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
   * 07/2014 - 08/2014
   * Partner: Shanghai Nankang Technology Co., Ltd
 - **Parallel GPU-accelerated deep learning algorithm development**
-  * 03/2015 - 06/2015
-  * Partner: Shenzhen Huawei Technology Co., Ltd
+  * 03/2015 - 06/2015
+  * Partner: Shenzhen Huawei Technology Co., Ltd
 - **Distributed Redis optimization**
-  * 06/2015 - 10/2015
-  * Partner: Shanghai Huawei Technology Co., Ltd
+  * 06/2015 - 10/2015
+  * Partner: Shanghai Huawei Technology Co., Ltd
 - **Collective-intelligence computing of urban big data**
   * 09/2015 - 07/2016
   * Partner: Ministry of Science and Technology of People's Republic of China
