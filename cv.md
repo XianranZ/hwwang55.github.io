@@ -1,9 +1,12 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
 ## Hongwei Wang (王鸿伟)
+[View My CV [PDF]](https://github.com/hwwang55/hwwang55.github.io/blob/master/files/hongweiwang_cv.pdf)
+
+## Education
 
 - **Structure Data Team, Google Research**
   * Software Engineering Intern
