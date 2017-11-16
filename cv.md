@@ -32,10 +32,13 @@ Social data mining, graph data mining, reprsentation learning, recommender syste
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo, *in Proceedings of the 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
   
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)**  
-  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang, *in IEEE Transactions on Computational Social Systems*. **TCSS 2016**.
+  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang, *in IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
   
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo, *in Proceedings of the 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**.
+  
+- **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://hwwang55.github.io/files/2017-RecSys-job.pdf)**  
+  Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun, *in Proceedings of the 11th ACM Conference on Recommender Systems*. **RecSys Challenge 2017**.
   
   
   
