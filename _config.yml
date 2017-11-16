@@ -24,6 +24,11 @@ description: Hongwei Wang's homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
+  Publications: "publications"
+  Honors & Awards: "honors"
+  Talks: "talks"
+  Contact: "contact"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
