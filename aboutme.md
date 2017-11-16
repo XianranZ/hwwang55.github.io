@@ -10,6 +10,6 @@ subtitle: CS PhD candidate @ SJTU, full-time intern @ MSRA
 - My research interests lie in the general area of machine learning and data mining, particularly in **recommender systems** and **graph data mining**. I also dabble in **deep learning**, **natural language processing**, and **reinforcement learning**.
 
 
-### my history
-- blabla
-- blabla
+### My history
+- I received the B.E. degree in 2014 at [the Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) in [Shanghai Jiao Tong University]((http://en.sjtu.edu.cn)).
+- I was a full-time intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) from July 2013 to April 2014, supervised by [Dr. Feng Zhao](http://www.fengzhao.com/).
