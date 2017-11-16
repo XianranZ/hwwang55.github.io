@@ -43,8 +43,8 @@ title: Curriculum Vitae
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)**  
-  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.  
-  **2016**
+  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
+  <br>**2016**
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *The 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
   
