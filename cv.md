@@ -57,12 +57,12 @@ title: Curriculum Vitae
   June 8, 2017
   ICDCS 2017, Atlanta, Georgia, U.S.
 
-- **[Network Embedding](https://hwwang55.github.io/files/2017-talks-NE-slides.pdf)**
-  April 26, 2017
+- **[Network Embedding](https://hwwang55.github.io/files/2017-talks-NE-slides.pdf)**  
+  April 26, 2017  
   Social Computing group meeting, Microsoft Research Asia, Beijing, China
 
-- **[Neural Network Models for Sentence Classification](https://hwwang55.github.io/files/2016-talks-sentence-classification-slides.pdf)**
-  November 18, 2016
+- **[Neural Network Models for Sentence Classification](https://hwwang55.github.io/files/2016-talks-sentence-classification-slides.pdf)**  
+  November 18, 2016  
   Social Computing group meeting, Microsoft Research Asia, Beijing, China
 
 
