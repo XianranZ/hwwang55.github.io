@@ -63,7 +63,7 @@ title: Curriculum Vitae
   * Partner: [Shanghai Nankang Technology Co., Ltd](http://www.nankang.com.cn/)
 
 
-## Professional Experience
+## Professional Experiences
 - **[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), research assistant**
   * 03/2016 - 09/2016, Mentor: [Prof. Jiannong Cao](http://www4.comp.polyu.edu.hk/~csjcao/)
 - **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), full-time internship**
