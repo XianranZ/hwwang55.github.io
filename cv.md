@@ -46,7 +46,13 @@ title: Curriculum Vitae
   Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://hwwang55.github.io/files/2016-BigDataSE-redis.pdf)**  
   Shanshan Chen, Xiaoxing Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *The 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
-  
+
+
+## Talks
+- **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)**  
+  November 7, 2017  
+  CIKM 2017, Singapore
+
 
 ## Academic Projects
 - **Collective-intelligence computing of urban big data**
