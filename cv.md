@@ -53,7 +53,7 @@ title: Curriculum Vitae
   November 7, 2017  
   *CIKM 2017*, Singapore
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)**  
-  June 8, 2017
+  June 8, 2017  
   *ICDCS 2017*, Atlanta, Georgia, U.S.
 - **[Network Embedding](https://hwwang55.github.io/files/2017-talks-NE-slides.pdf)**  
   April 26, 2017  
