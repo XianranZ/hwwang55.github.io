@@ -87,5 +87,18 @@ title: Curriculum Vitae
 
 
 ## Honors & Awards
-
-- 
+- **Overseas Alumni Doctoral Students Scholarship**, Shanghai Jiao Tong University, 2017
+- **The 5th place in RecsysChallenge 2017**, RecSys Challenge, 2017
+- **The 2nd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2015
+- **The 3rd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2014
+- **Outstanding Doctoral Freshman Scholarship (Top 10%)**, Shanghai Jiao Tong University, 2014
+- **GPA 2nd/29**, ACM class, Shanghai Jiao Tong University, 2010-2014
+- **SJTU Outstanding Undergraduate**, Shanghai Jiao Tong University, 2014
+- **Arawana Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2013
+- **Tung OOCL Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2012
+- **The 2nd prize of China Undergraduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2012
+- **National Scholarship for Encouragement (Top 10%)**, Shanghai Jiao Tong University, 2011
+- **The 2nd prize of Chinese Undergraduate Physics Competition**, Shanghai Jiao Tong University, 2011
+- **The 3rd prize of Chinese Senior High School Chemistry Competition**, Wuhu No. 1 Middle School, 2009
+- **The 3rd prize of Chinese Senior High School Physics Competition**, Wuhu No. 1 Middle School,  2009
+- **The 1st prize of Chinese Senior High School Mathematics Competition**, Wuhu No. 1 Middle School, 2009
