@@ -3,7 +3,6 @@ layout: page
 title: Talks
 ---
 
-## Talks
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)**
   * November 7, 2017
   * *CIKM 2017*, Singapore
