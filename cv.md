@@ -87,7 +87,7 @@ title: Curriculum Vitae
 
 
 ## Honors & Awards
-- **Overseas Alumni Doctoral Students Scholarship**, Shanghai Jiao Tong University, 2017
+- **Overseas Alumni Doctoral Students Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2017
 - **The 5th place in RecsysChallenge 2017**, RecSys Challenge, 2017
 - **The 2nd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2015
 - **The 3rd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2014
