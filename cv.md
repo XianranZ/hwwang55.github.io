@@ -37,7 +37,7 @@ title: Curriculum Vitae
 - **[SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)**  
   **Hongwei Wang**, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu. *The 11th ACM International Conference on Web Search and Data Mining*. **WSDM 2018**. [poster is coming soon]
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)**  
-  **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo. *The 26th International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
+  **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo. *The 26th ACM International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://hwwang55.github.io/files/2017-RecSys-job.pdf)**  
   Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun. *The 11th ACM Conference on Recommender Systems*. **RecSys Challenge 2017**.
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)**  
