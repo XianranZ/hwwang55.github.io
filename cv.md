@@ -35,7 +35,7 @@ title: Curriculum Vitae
 - **[MELODY: A Long-term Dynamic Quality-Aware Incentive Mechanism for Crowdsourcing](https://hwwang55.github.io/files/2018-TPDS-MELODY.pdf)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *IEEE Transactions on Parallel and Distributed Systems*. **TPDS 2018**. [[appendix](https://hwwang55.github.io/files/2018-TPDS-MELODY-appendix.pdf)]
 - **[SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)**  
-  **Hongwei Wang**, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu. *The 11th ACM International Conference on Web Search and Data Mining*. **WSDM 2018**. [poster is coming soon]
+  **Hongwei Wang**, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu. *The 11th ACM International Conference on Web Search and Data Mining*. **WSDM 2018**.
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)**  
   **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo. *The 26th ACM International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://hwwang55.github.io/files/2017-RecSys-job.pdf)**  
