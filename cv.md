@@ -49,6 +49,9 @@ title: Curriculum Vitae
 
 
 ## Talks
+- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2017-talks-GraphGAN-slides.pdf)**
+  * November 27, 2017
+  * *Social Computing group meeting*, Microsoft Research Asia, Beijing, China
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)**
   * November 7, 2017
   * *CIKM 2017*, Singapore
