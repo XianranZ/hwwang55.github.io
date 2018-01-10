@@ -5,6 +5,8 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://hwwang55.github.io/files/2018-WWW-DKN.pdf)**  
+  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The 27th International Conference on World Wide Web*. **WWW 2018**.
 - **[Deep Representation-Decoupling Neural Networks for Monaural Music Mixture Separation](https://hwwang55.github.io/files/2018-AAAI-DRDNN.pdf)**  
   Zhuo Li, **Hongwei Wang**, Miao Zhao, Wenjie Li, Minyi Guo. *The 32nd AAAI Conference on Artificial Intelligence*. **AAAI 2018**.
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)**  

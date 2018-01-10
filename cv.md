@@ -9,7 +9,7 @@ title: Curriculum Vitae
 
 ## Research Interests
 - **Recommender systems**  
-  [[TCSS 2017](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)] [[RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf)] [[CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)]
+  [[TCSS 2017](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)] [[RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf)] [[CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)] [[WWW 2018](https://hwwang55.github.io/files/2018-WWW-DKN.pdf)]
 - **Graph representation learning**  
   [[WSDM 2018](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)] [[AAAI 2018a](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)]
 - **Machine learning application**  
@@ -28,6 +28,8 @@ title: Curriculum Vitae
 
 
 ## Publications
+- **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://hwwang55.github.io/files/2018-WWW-DKN.pdf)**  
+  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The 27th International Conference on World Wide Web*. **WWW 2018**.
 - **[Deep Representation-Decoupling Neural Networks for Monaural Music Mixture Separation](https://hwwang55.github.io/files/2018-AAAI-DRDNN.pdf)**  
   Zhuo Li, **Hongwei Wang**, Miao Zhao, Wenjie Li, Minyi Guo. *The 32nd AAAI Conference on Artificial Intelligence*. **AAAI 2018**.
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)**  
@@ -49,6 +51,9 @@ title: Curriculum Vitae
 
 
 ## Talks
+- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides-paperweekly.pdf)**
+  * January 10, 2018
+  * *Online talk at PaperWeekly*, Beijing, China
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2017-talks-GraphGAN-slides.pdf)**
   * November 27, 2017
   * *Social Computing group meeting*, Microsoft Research Asia, Beijing, China
