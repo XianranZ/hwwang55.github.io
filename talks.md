@@ -3,7 +3,10 @@ layout: page
 title: Talks
 ---
 
-- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides-paperweekly.pdf)**
+- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides.pdf)**
+  * February 4, 2018
+  * *AAAI 2018*, New Orleans, Louisiana, U.S.
+- **[Graph Representation Learning and GraphGAN](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides-paperweekly.pdf)**
   * January 10, 2018
   * *Online talk at PaperWeekly*, Beijing, China
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2017-talks-GraphGAN-slides.pdf)**

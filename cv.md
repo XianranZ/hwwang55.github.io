@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ## Hongwei Wang (王鸿伟)
-[View my CV [PDF]](https://hwwang55.github.io/files/hongweiwang_cv.pdf)
+[View my CV [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en.pdf) or [个人简历 [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_ch.pdf)
 
 
 ## Research Interests
@@ -51,7 +51,10 @@ title: Curriculum Vitae
 
 
 ## Talks
-- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides-paperweekly.pdf)**
+- **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides.pdf)**
+  * February 4, 2018
+  * *AAAI 2018*, New Orleans, Louisiana, U.S.
+- **[Graph Representation Learning and GraphGAN](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides-paperweekly.pdf)**
   * January 10, 2018
   * *Online talk at PaperWeekly*, Beijing, China
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2017-talks-GraphGAN-slides.pdf)**
