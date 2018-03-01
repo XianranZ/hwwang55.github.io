@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ## Hongwei Wang (王鸿伟)
-[View my CV [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en.pdf) or [个人简历 [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_ch.pdf)
+View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en.pdf) or [in Chinese [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_ch.pdf)
 
 
 ## Research Interests
