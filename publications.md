@@ -18,7 +18,7 @@ View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&
 - **[Joint Topic-Semantic-aware Social Recommendation for Online Voting](https://dl.acm.org/citation.cfm?id=3132889)**  
   **Hongwei Wang**, Jia Wang, Miao Zhao, Jiannong Cao, Minyi Guo. *The 26th ACM International Conference on Information and Knowledge Management*. **CIKM 2017**. [[code](https://github.com/hwwang55/JTS-MF)] [[slides](https://hwwang55.github.io/files/2017-CIKM-JTSMF-slides.pdf)]
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://dl.acm.org/citation.cfm?id=3124794)**  
-  Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun. *The 11th ACM Conference on Recommender Systems*. **RecSys Challenge 2017**.
+  Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun. *The 11th ACM Conference on Recommender Systems*. **RecSys 2017**.
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://ieeexplore.ieee.org/abstract/document/7980035/)**  
   **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://ieeexplore.ieee.org/abstract/document/7866820/)**  
