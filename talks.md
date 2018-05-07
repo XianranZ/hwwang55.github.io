@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 
+- **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://hwwang55.github.io/files/2018-talks-DKN-slides.pdf)**
+  * April 25, 2018
+  * *WWW 2018*, Lyon, France
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://hwwang55.github.io/files/2018-talks-GraphGAN-slides.pdf)**
   * February 4, 2018
   * *AAAI 2018*, New Orleans, Louisiana, U.S.
