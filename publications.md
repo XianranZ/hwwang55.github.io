@@ -5,8 +5,12 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/abs/1803.03467)**  
+  **Hongwei Wang**, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. *The 27th ACM International Conference on Information and Knowledge Management*. **CIKM 2018**. [[code](https://github.com/hwwang55/RippleNet)]
+- **[Weakly-Supervised Generative Adversarial Nets with Auxiliary Information for Wireless Coverage Estimation]()**  
+  Zhuo Li, **Hongwei Wang**, Miao Zhao. *The 27th ACM International Conference on Information and Knowledge Management*. **CIKM 2018** (short paper).
 - **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://dl.acm.org/citation.cfm?id=3186175)**  
-  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The 27th World Wide Web Conference*. **WWW 2018**.
+  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The 27th World Wide Web Conference*. **WWW 2018**. [[code](https://github.com/hwwang55/DKN)] [[slides](https://hwwang55.github.io/files/2017-talks-DKN-slides.pdf)]
 - **[Deep Representation-Decoupling Neural Networks for Monaural Music Mixture Separation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)**  
   Zhuo Li, **Hongwei Wang**, Miao Zhao, Wenjie Li, Minyi Guo. *The 32nd AAAI Conference on Artificial Intelligence*. **AAAI 2018**.
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)**  
