@@ -9,11 +9,19 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 
 ## Research Interests
 - **Recommender systems**  
-  [[TCSS 2017](https://hwwang55.github.io/files/2017-TCSS-voting.pdf)] [[RecSys 2017](https://hwwang55.github.io/files/2017-RecSys-job.pdf)] [[CIKM 2017](https://hwwang55.github.io/files/2017-CIKM-JTSMF.pdf)] [[WWW 2018](https://hwwang55.github.io/files/2018-WWW-DKN.pdf)]
+  [[TCSS 2017](https://ieeexplore.ieee.org/abstract/document/7866820/)]
+  [[RecSys 2017](https://dl.acm.org/citation.cfm?id=3124794)]
+  [[CIKM 2017](https://dl.acm.org/citation.cfm?id=3132889)]
+  [[WWW 2018](https://dl.acm.org/citation.cfm?id=3186175)]
+  [[CIKM 2018a](https://arxiv.org/abs/1803.03467)]
 - **Graph representation learning**  
-  [[WSDM 2018](https://hwwang55.github.io/files/2018-WSDM-SHINE.pdf)] [[AAAI 2018a](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)]
+  [[WSDM 2018](https://dl.acm.org/citation.cfm?id=3159666)]
+  [[AAAI 2018a](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)]
 - **Machine learning application**  
-  [[ICDCS 2017](https://hwwang55.github.io/files/2017-ICDCS-MELODY.pdf)] [[TPDS 2018](https://hwwang55.github.io/files/2018-TPDS-MELODY.pdf)] [[AAAI 2018b](https://hwwang55.github.io/files/2018-AAAI-DRDNN.pdf)]
+  [[ICDCS 2017](https://ieeexplore.ieee.org/abstract/document/7980035/)]
+  [[TPDS 2018](https://ieeexplore.ieee.org/abstract/document/8115213/)]
+  [[AAAI 2018b](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)]
+  [[CIKM 2018b]()]
 
 
 ## Education
