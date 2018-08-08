@@ -24,8 +24,8 @@ View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&
 - **[Practical Lessons for Job Recommendations in the Cold-Start Scenario](https://dl.acm.org/citation.cfm?id=3124794)**  
   Jianxun Lian, Fuzheng Zhang, Min Hou, **Hongwei Wang**, Xing Xie, Guangzhong Sun. *The 11th ACM Conference on Recommender Systems*. **RecSys 2017**.
 - **[MELODY: A Long-term Dynamic Quality-aware Incentive Mechanism for Crowdsourcing](https://ieeexplore.ieee.org/abstract/document/7980035/)**  
-  **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]
+  **Hongwei Wang**, Song Guo, Jiannong Cao, Minyi Guo. *The 37th IEEE International Conference on Distributed Computing Systems*. **ICDCS 2017**. [[slides](https://hwwang55.github.io/files/2017-ICDCS-MELODY-slides.pdf)]
 - **[Collaborative Filtering Based Recommendation of Online Social Voting](https://ieeexplore.ieee.org/abstract/document/7866820/)**  
-  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS 2017**.
+  Xiwang Yang, Chao Liang, Miao Zhao, **Hongwei Wang**, Hao Ding, Yong Liu, Yang Li, Junlin Zhang. *IEEE Transactions on Computational Social Systems*. **TCSS**.
 - **[Towards Scalable and Reliable In-memory Storage System: A Case Study with Redis](https://ieeexplore.ieee.org/abstract/document/7847138/)**  
   Shanshan Chen, Xiaoxin Tang, **Hongwei Wang**, Han Zhao, Minyi Guo. *The 10th IEEE International Conference on Big Data Science and Engineering*. **BigDataSE 2016**.
