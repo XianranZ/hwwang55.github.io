@@ -37,7 +37,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 
 ## Professional Experiences
 - **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), full-time internship**
-  * 09/2016 - present, Mentor: [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
+  * 09/2016 - 09/2018, Mentor: [Dr. Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
 - **[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), research assistant**
   * 03/2016 - 09/2016, Mentor: [Prof. Jiannong Cao](http://www4.comp.polyu.edu.hk/~csjcao/)
 - **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), full-time internship**
