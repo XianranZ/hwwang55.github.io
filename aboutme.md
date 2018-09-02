@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: CS PhD candidate @ SJTU, full-time intern @ MSRA
+subtitle: CS PhD candidate @ SJTU
 ---
 
 - I'm a fifth-year Ph. D. candidate at [the Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), supervised by [Prof. Minyi Guo](http://www.cs.sjtu.edu.cn/~guo-my/).
