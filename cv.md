@@ -52,7 +52,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 - **The 2nd prize of National Post-Graduate Mathematical Contest in Modeling**, GMCM Organizing Committee, 2015
 - **The 3rd prize of National Post-Graduate Mathematical Contest in Modeling**, GMCM Organizing Committee, 2014
 - **Outstanding Doctoral Freshman Scholarship (top 10%)**, Shanghai Jiao Tong University, 2014
-- **GPA 2nd/29**, ACM class, Shanghai Jiao Tong University, 2010-2014
+- **GPA ranking: 2nd/29**, ACM class, Shanghai Jiao Tong University, 2010-2014
 - **SJTU Outstanding Undergraduate**, Shanghai Jiao Tong University, 2014
 - **Arawana Scholarship (top 5%)**, Shanghai Jiao Tong University, 2013
 - **Tung OOCL Scholarship (top 5%)**, Shanghai Jiao Tong University, 2012
