@@ -13,7 +13,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
   [[RecSys 2017](https://dl.acm.org/citation.cfm?id=3124794)]
   [[CIKM 2017](https://dl.acm.org/citation.cfm?id=3132889)]
   [[WWW 2018](https://dl.acm.org/citation.cfm?id=3186175)]
-  [[CIKM 2018a](https://arxiv.org/abs/1803.03467)]
+  [[CIKM 2018a](https://dl.acm.org/citation.cfm?id=3271739)]
 - **Graph representation learning**  
   [[WSDM 2018](https://dl.acm.org/citation.cfm?id=3159666)]
   [[AAAI 2018a](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)]
@@ -21,7 +21,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
   [[ICDCS 2017](https://ieeexplore.ieee.org/abstract/document/7980035/)]
   [[TPDS 2018](https://ieeexplore.ieee.org/abstract/document/8115213/)]
   [[AAAI 2018b](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)]
-  [[CIKM 2018b]()]
+  [[CIKM 2018b](https://dl.acm.org/citation.cfm?id=3269294)]
 
 
 ## Education
@@ -45,18 +45,20 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 
 
 ## Honors & Awards
-- **Overseas Alumni Doctoral Students Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2017
+- **Google Ph.D. Fellowship (6 in East Asia, ~70 in total)**, Google Inc., 2018
+- **National Scholarship (ranking: 1st/~200)**, Ministry of Education of the PRC, 2018
+- **Overseas Alumni Doctoral Students Scholarship (top 5%)**, Shanghai Jiao Tong University, 2017
 - **The 5th place in RecsysChallenge 2017**, RecSys Challenge, 2017
-- **The 2nd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2015
-- **The 3rd prize of China Graduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2014
-- **Outstanding Doctoral Freshman Scholarship (Top 10%)**, Shanghai Jiao Tong University, 2014
+- **The 2nd prize of National Post-Graduate Mathematical Contest in Modeling**, GMCM Organizing Committee, 2015
+- **The 3rd prize of National Post-Graduate Mathematical Contest in Modeling**, GMCM Organizing Committee, 2014
+- **Outstanding Doctoral Freshman Scholarship (top 10%)**, Shanghai Jiao Tong University, 2014
 - **GPA 2nd/29**, ACM class, Shanghai Jiao Tong University, 2010-2014
 - **SJTU Outstanding Undergraduate**, Shanghai Jiao Tong University, 2014
-- **Arawana Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2013
-- **Tung OOCL Scholarship (Top 5%)**, Shanghai Jiao Tong University, 2012
-- **The 2nd prize of China Undergraduate Mathematical Contest in Modeling**, Shanghai Jiao Tong University, 2012
-- **National Scholarship for Encouragement (Top 10%)**, Shanghai Jiao Tong University, 2011
-- **The 2nd prize of Chinese Undergraduate Physics Competition**, Shanghai Jiao Tong University, 2011
-- **The 3rd prize of Chinese Senior High School Chemistry Competition**, Wuhu No. 1 Middle School, 2009
-- **The 3rd prize of Chinese Senior High School Physics Competition**, Wuhu No. 1 Middle School,  2009
-- **The 1st prize of Chinese Senior High School Mathematics Competition**, Wuhu No. 1 Middle School, 2009
+- **Arawana Scholarship (top 5%)**, Shanghai Jiao Tong University, 2013
+- **Tung OOCL Scholarship (top 5%)**, Shanghai Jiao Tong University, 2012
+- **The 2nd prize of National Undergraduate Mathematical Contest in Modeling (Shanghai District)**, China Society for Industrial and Applied Mathematics, 2012
+- **National Scholarship for Encouragement (top 10%)**, Shanghai Municipal Education Commission, 2011
+- **The 2nd prize of National Undergraduate Physics Contest (Shanghai District)**, Shanghai Physical Society, 2011
+- **The 3rd prize of National Senior High School Chemistry Contest (Anhui District)**, Anhui Chemical Society, 2009
+- **The 3rd prize of National Senior High School Physics Contest**, AnHui Physical Society, 2009
+- **The 1st prize of National Senior High School Mathematics Contest**, Chinese Mathematical Society, 2009

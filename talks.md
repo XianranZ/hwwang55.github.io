@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+- **[RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://hwwang55.github.io/files/2018-talks-RippleNet-slides.pdf)**
+  * October 23, 2018
+  * *CIKM 2018*, Turin, Italy
+- **[When Recommender System Meets Network Representation Learning](https://hwwang55.github.io/files/2018-talks-ASAF-slides.pdf)**
+  * June 3, 2018
+  * *ACM-class Student Academic Festival 2018*, Shanghai, China
 - **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://hwwang55.github.io/files/2018-talks-DKN-slides.pdf)**
   * April 25, 2018
   * *WWW 2018*, Lyon, France
