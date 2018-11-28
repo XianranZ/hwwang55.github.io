@@ -5,6 +5,8 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[Modeling Local Dependence in Natural Language with Multi-channel Recurrent Neural Networks](https://arxiv.org/abs/1811.05121)**  
+  Chang Xu, Weiran Huang, **Hongwei Wang**, Wang Gang, Tieyan Liu. *The 33rd AAAI Conference on Artificial Intelligence*. **AAAI 2019**.
 - **[RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://dl.acm.org/citation.cfm?id=3271739)**  
   **Hongwei Wang**, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. *The 27th ACM International Conference on Information and Knowledge Management*. **CIKM 2018**. [[code](https://github.com/hwwang55/RippleNet)]  [[slides](https://hwwang55.github.io/files/2018-talks-RippleNet-slides.pdf)]
 - **[Weakly-Supervised Generative Adversarial Nets with Auxiliary Information for Wireless Coverage Estimation](https://dl.acm.org/citation.cfm?id=3269294)**  

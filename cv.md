@@ -22,10 +22,10 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
   [[TPDS 2018](https://ieeexplore.ieee.org/abstract/document/8115213/)]
   [[AAAI 2018b](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)]
   [[CIKM 2018b](https://dl.acm.org/citation.cfm?id=3269294)]
-
+  [[AAAI 2019](https://arxiv.org/abs/1811.05121)]
 
 ## Education
-- **Ph.D., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
+- **Ph.D. candidate, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
   * 09/2014 - present
   * [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/)
   * Advisor: [Minyi Guo](http://www.cs.sjtu.edu.cn/~guo-my/)
@@ -45,6 +45,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 
 
 ## Honors & Awards
+- **Tang Lixin Scholarship**, Shanghai Jiao Tong University, 2018
 - **Google Ph.D. Fellowship (6 in East Asia, ~70 in total)**, Google Inc., 2018
 - **National Scholarship (ranking: 1st/~200)**, Ministry of Education of the PRC, 2018
 - **Overseas Alumni Doctoral Students Scholarship (top 5%)**, Shanghai Jiao Tong University, 2017
