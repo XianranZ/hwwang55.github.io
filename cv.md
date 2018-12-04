@@ -46,7 +46,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 
 ## Honors & Awards
 - **Tang Lixin Scholarship**, Shanghai Jiao Tong University, 2018
-- **Google Ph.D. Fellowship (6 in East Asia, ~70 in total)**, Google Inc., 2018
+- **Google Ph.D. Fellowship (6 in East Asia, 57 in total)**, Google Inc., 2018
 - **National Scholarship (ranking: 1st/~200)**, Ministry of Education of the PRC, 2018
 - **Overseas Alumni Doctoral Students Scholarship (top 5%)**, Shanghai Jiao Tong University, 2017
 - **The 5th place in RecsysChallenge 2017**, RecSys Challenge, 2017
