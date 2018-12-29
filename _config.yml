@@ -17,7 +17,7 @@ baseurl: ""
 title: Hongwei Wang
 
 # Short description of your site
-description: Shanghai Jiao Tong University (SJTU)
+description: Stanford University
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   CV: "cv"
   Publications: "publications"
   Talks: "talks"
-  Contact: "contact"
+  #Contact: "contact"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"

@@ -23,10 +23,15 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
   [[AAAI 2018b](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)]
   [[CIKM 2018b](https://dl.acm.org/citation.cfm?id=3269294)]
   [[AAAI 2019](https://arxiv.org/abs/1811.05121)]
+  [[ICLR 2019](https://arxiv.org/abs/1810.00143)]
 
 ## Education
-- **Ph.D. candidate, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
-  * 09/2014 - present
+- **Postdoc, [Stanford University](https://www.stanford.edu/)**
+  * 03/2019 - present
+  * [Department of Computer Science](https://cs.stanford.edu/)
+  * Advisor: [Jure Leskovec](https://cs.stanford.edu/people/jure/)
+- **Ph.D., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**
+  * 09/2014 - 12/2018
   * [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/)
   * Advisor: [Minyi Guo](http://www.cs.sjtu.edu.cn/~guo-my/)
 - **B.E., [Shanghai Jiao Tong University](http://en.sjtu.edu.cn)**

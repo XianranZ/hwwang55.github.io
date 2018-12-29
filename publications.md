@@ -5,6 +5,8 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods](https://arxiv.org/abs/1810.00143)**  
+  Zhiming Zhou, Qingru Zhang, Guansong Lu, **Hongwei Wang**, Weinan Zhang, Yong Yu. *The 7th International Conference on Learning Representations*. **ICLR 2019**.
 - **[Modeling Local Dependence in Natural Language with Multi-channel Recurrent Neural Networks](https://arxiv.org/abs/1811.05121)**  
   Chang Xu, Weiran Huang, **Hongwei Wang**, Wang Gang, Tieyan Liu. *The 33rd AAAI Conference on Artificial Intelligence*. **AAAI 2019**.
 - **[RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://dl.acm.org/citation.cfm?id=3271739)**  
