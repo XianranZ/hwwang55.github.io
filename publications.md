@@ -6,7 +6,7 @@ title: Publications
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
 - **[Knowledge Graph Convolutional Networks for Recommender Systems]()**  
-  **Hongwei Wang**, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo. *The Web Conference 2019*. **WWW 2019** (short paper). [[code](https://github.com/hwwang55/KGCN-LS)]
+  **Hongwei Wang**, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo. *The Web Conference 2019*. **WWW 2019** (short paper). [[code](https://github.com/hwwang55/KGCN)]
 - **[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation]()**  
   **Hongwei Wang**, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. *The Web Conference 2019*. **WWW 2019**. [[code](https://github.com/hwwang55/MKR)] [[slides]()]
 - **[AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods](https://arxiv.org/abs/1810.00143)**  
