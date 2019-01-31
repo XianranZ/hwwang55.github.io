@@ -5,6 +5,10 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[Knowledge Graph Convolutional Networks for Recommender Systems]()**  
+  **Hongwei Wang**, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo. *The Web Conference 2019*. **WWW 2019** (short paper). [[code](https://github.com/hwwang55/KGCN-LS)]
+- **[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation]()**  
+  **Hongwei Wang**, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. *The Web Conference 2019*. **WWW 2019**. [[code](https://github.com/hwwang55/MKR)] [[slides]()]
 - **[AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods](https://arxiv.org/abs/1810.00143)**  
   Zhiming Zhou, Qingru Zhang, Guansong Lu, **Hongwei Wang**, Weinan Zhang, Yong Yu. *The 7th International Conference on Learning Representations*. **ICLR 2019**.
 - **[Modeling Local Dependence in Natural Language with Multi-channel Recurrent Neural Networks](https://arxiv.org/abs/1811.05121)**  
@@ -14,7 +18,7 @@ View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&
 - **[Weakly-Supervised Generative Adversarial Nets with Auxiliary Information for Wireless Coverage Estimation](https://dl.acm.org/citation.cfm?id=3269294)**  
   Zhuo Li, **Hongwei Wang**, Miao Zhao. *The 27th ACM International Conference on Information and Knowledge Management*. **CIKM 2018** (short paper).
 - **[DKN: Deep Knowledge-Aware Network for News Recommendation](https://dl.acm.org/citation.cfm?id=3186175)**  
-  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The 27th World Wide Web Conference*. **WWW 2018**. [[code](https://github.com/hwwang55/DKN)] [[slides](https://hwwang55.github.io/files/2017-talks-DKN-slides.pdf)]
+  **Hongwei Wang**, Fuzheng Zhang, Xing Xie, Minyi Guo. *The Web Conference 2019*. **WWW 2018**. [[code](https://github.com/hwwang55/DKN)] [[slides](https://hwwang55.github.io/files/2017-talks-DKN-slides.pdf)]
 - **[Deep Representation-Decoupling Neural Networks for Monaural Music Mixture Separation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16733)**  
   Zhuo Li, **Hongwei Wang**, Miao Zhao, Wenjie Li, Minyi Guo. *The 32nd AAAI Conference on Artificial Intelligence*. **AAAI 2018**.
 - **[GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)**  
