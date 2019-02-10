@@ -16,6 +16,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
   [[CIKM 2018a](https://dl.acm.org/citation.cfm?id=3271739)]
   [[WWW 2019a]()]
   [[WWW 2019b]()]
+  [[TOIS]()]
 - **Graph representation learning**  
   [[WSDM 2018](https://dl.acm.org/citation.cfm?id=3159666)]
   [[AAAI 2018a](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)]

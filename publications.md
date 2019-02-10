@@ -5,6 +5,8 @@ title: Publications
 
 View my [Google Scholar](https://scholar.google.com/citations?user=3C__4wsAAAAJ&hl=en)
 
+- **[Exploring High-Order User Preference on the Knowledge Graph for Recommender Systems]()**  
+  **Hongwei Wang**, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. *ACM Transactions on Information Systems*. **TOIS**.
 - **[Knowledge Graph Convolutional Networks for Recommender Systems]()**  
   **Hongwei Wang**, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo. *The Web Conference 2019*. **WWW 2019** (short paper). [[code](https://github.com/hwwang55/KGCN)]
 - **[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation]()**  
