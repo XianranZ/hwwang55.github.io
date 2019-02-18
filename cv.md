@@ -66,7 +66,7 @@ View my CV [in English [PDF]](https://hwwang55.github.io/files/hongweiwang_cv_en
 - **Arawana Scholarship (top 5%)**, Shanghai Jiao Tong University, 2013
 - **Tung OOCL Scholarship (top 5%)**, Shanghai Jiao Tong University, 2012
 - **The 2nd prize of National Undergraduate Mathematical Contest in Modeling (Shanghai District)**, China Society for Industrial and Applied Mathematics, 2012
-- **National Scholarship for Encouragement (top 10%)**, Shanghai Municipal Education Commission, 2011
+- **National Encouragement Scholarship (top 10%)**, Shanghai Municipal Education Commission, 2011
 - **The 2nd prize of National Undergraduate Physics Contest (Shanghai District)**, Shanghai Physical Society, 2011
 - **The 3rd prize of National Senior High School Chemistry Contest (Anhui District)**, Anhui Chemical Society, 2009
 - **The 3rd prize of National Senior High School Physics Contest**, Anhui Physical Society, 2009
