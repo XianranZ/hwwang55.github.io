@@ -27,7 +27,7 @@ navbar-links:
   CV: "cv"
   Publications: "publications"
   Talks: "talks"
-  #Contact: "contact"
+  Contact: "contact"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +60,7 @@ avatar: "/img/avatar.jpeg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Hongwei Wang
-  email: "wanghongwei55@gmail.com"
+  email: "hongweiw@cs.stanford.edu"
   facebook: hwwang55
   github: hwwang55
   linkedin: hongwei-wang-730a7b72
@@ -121,7 +121,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Beijing"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
